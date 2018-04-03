@@ -1,0 +1,34 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="{% static 'main.css' %}">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/lumen/bootstrap.min.css">
+    <title>When in Doubt Don't Throw it Out</title>
+ </head>
+ <body>
+ <header>
+    <nav class="navbar navbar-default">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <a class="navbar-brand" href="{% url 'index'%}"></span> Home</a>
+        </div>
+      </div>
+    </nav>
+  </header>
+
+  <div class="col-sm-offset-4 col-sm-10">
+  	<div class="wrapper">
+  	<br><h2>{{name}}</h2><br>
+  	<h3>cuisine : {{cuisine}}</h3><br>
+  	{% for x in ingredients %}
+  		{{x}}<br>
+  	{% endfor %}
+  </div>
+  </div>
+  </body>
+ </html>

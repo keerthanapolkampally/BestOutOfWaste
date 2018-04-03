@@ -1,0 +1,41 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="{% static 'main.css' %}">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/lumen/bootstrap.min.css">
+    <title>When in Doubt Don't Throw it Out</title>
+  </head>
+<body>
+  <header>
+    <nav class="navbar navbar-default">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <a class="navbar-brand" href="{% url 'index'%}" ></span> Home</a>
+        </div>
+      </div>
+    </nav>
+  </header>
+  <form class="col-sm-offset-4 col-sm-10" action="{% url 'index' %}" method="post">
+  	<h2>Add Ingredients</h2><br>
+  	{% csrf_token %}
+  {% for field in form %}
+      <p>
+        <strong>{{ field.label_tag }}</strong><br>
+        {{ field }}<br>
+        {% for error in field.errors %}
+          <p style="color: red">{{ error }}</p>
+        {% endfor %}
+        {% if field.help_text %}
+          <p><small style="color: grey">{{ field.help_text }}</small></p>
+        {% endif %}
+      </p>
+    {% endfor %}
+  <button type="submit">Search</button> 
+  </form>
+ </body>
+</html>

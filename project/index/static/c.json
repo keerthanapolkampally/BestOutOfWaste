@@ -1,0 +1,1029 @@
+[
+{
+    "id": 0,
+    "recipe":"baked salmon",
+    "cuisine": "indian",
+    "ingredients": [
+      "salmon fillets",
+      "shallots",
+      "cumin seed",
+      "fresh cilantro",
+      "salt",
+      "curry powder",
+      "vegetable oil",
+      "serrano chile",
+      "ginger",
+      "sauce"
+    ]
+  },
+
+   {
+    "id": 1,
+    "recipe" :"masala dosa",
+    "cuisine": "indian",
+    "ingredients": [
+      "salt",
+      "fenugreek",
+      "urad dal",
+      "potatoes",
+      "white rice",
+      "vegetable oil"
+    ]
+  },
+  {
+    "id":2,
+    "recipe" :"tandoori chicken",
+    "cuisine": "indian",
+    "ingredients": [
+      "chicken legs",
+      "chile pepper",
+      "ghee",
+      "tomato paste",
+      "fresh ginger root",
+      "garlic",
+      "chopped cilantro fresh",
+      "water",
+      "vegetable oil",
+      "onions",
+      "tomatoes",
+      "garam masala",
+      "cumin seed",
+      "turmeric"
+    ]
+  },
+
+  {
+    "id": 3,
+    "recipe" :"chickpea burger",
+    "cuisine": "indian",
+    "ingredients": [
+      "burger buns",
+      "fresh cilantro",
+      "chili powder",
+      "garlic cloves",
+      "panko breadcrumbs",
+      "chickpea flour",
+      "pepper",
+      "Sriracha",
+      "chickpeas",
+      "carrots",
+      "ground flaxseed",
+      "soy sauce",
+      "olive oil",
+      "salt",
+      "lemon juice",
+      "greens",
+      "spinach",
+      "curry powder",
+      "tahini",
+      "scallions",
+      "onions",
+      "ground cumin"
+    ]
+  },
+
+  
+
+    {
+    "id": 4,
+    "recipe" :"aloo methi curry",
+    "cuisine": "indian",
+    "ingredients": [
+      "fenugreek leaves",
+      "olive oil",
+      "garlic",
+      "black mustard seeds",
+      "ground cumin",
+      "amchur",
+      "lime wedges",
+      "scallions",
+      "coriander",
+      "sugar",
+      "fingerling potatoes",
+      "green chilies",
+      "chopped cilantro",
+      "tumeric",
+      "fresh ginger root",
+      "salt",
+      "ramps"
+    ]
+  },
+  {
+    "id": 5,
+    "recipe":"garam masala",
+    "cuisine": "indian",
+    "ingredients": [
+      "black peppercorns",
+      "cinnamon sticks",
+      "cardamom pods",
+      "cumin seed",
+      "coriander seeds"
+    ]
+  },
+
+  {
+    "id": 6,
+    "recipe":"shrimp curry with naan",
+    "cuisine": "indian",
+    "ingredients": [
+      "baby spinach leaves",
+      "naan",
+      "unsalted butter",
+      "chopped garlic",
+      "water",
+      "large shrimp",
+      "tomatoes",
+      "salt"
+    ]
+  },
+
+  {
+    "id": 7,
+    "recipe":"biriyani",
+    "cuisine": "indian",
+    "ingredients": [
+      "olive oil",
+      "sea salt",
+      "coconut milk",
+      "water",
+      "garam masala",
+      "ground coriander",
+      "basmati rice",
+      "cauliflower",
+      "fresh ginger",
+      "green chilies",
+      "onions",
+      "fresh cilantro",
+      "potatoes",
+      "scallions",
+      "cumin"
+    ]
+  },
+
+  {
+    "id": 8,
+    "recipe":"barley upma",
+    "cuisine": "indian",
+    "ingredients": [
+      "minced garlic",
+      "raisins",
+      "onions",
+      "olive oil",
+      "pearl barley",
+      "curry powder",
+      "salt",
+      "slivered almonds",
+      "ground black pepper",
+      "flat leaf parsley"
+    ]
+  },
+  
+  {
+    "id": 9,
+    "recipe":"potato and parsnips chips",
+    "cuisine": "indian",
+    "ingredients": [
+      "parsnips",
+      "garam masala",
+      "chili oil",
+      "olive oil",
+      "brown mustard seeds",
+      "chopped cilantro fresh",
+      "sugar",
+      "cooking spray",
+      "salt",
+      "coriander seeds",
+      "yukon gold potatoes",
+      "ground cumin"
+    ]
+  },
+
+   {
+    "id": 10,
+    "recipe":"chicken curry with quinoa",
+    "cuisine": "indian",
+    "ingredients": [
+      "quinoa",
+      "nonfat milk",
+      "granny smith apples",
+      "paprika",
+      "chicken broth",
+      "chicken breasts",
+      "chopped onion",
+      "curry powder",
+      "chopped celery"
+    ]
+  },
+
+  {
+    "id": 11,
+    "recipe":"dal khichdi",
+    "cuisine": "indian",
+    "ingredients": [
+      "lime zest",
+      "sweet potatoes",
+      "purple onion",
+      "boiling water",
+      "spinach leaves",
+      "ginger",
+      "low-fat natural yogurt",
+      "red lentils",
+      "vegetable stock",
+      "carrots",
+      " rice",
+      "lime",
+      "Flora Cuisine",
+      "curry paste"
+    ]
+  },
+
+  {
+    "id": 12,
+    "recipe":"moong dal tikki",
+    "cuisine": "indian",
+    "ingredients": [
+      "moong dal",
+      "cilantro leaves",
+      "onions",
+      "tomatoes",
+      "capsicum",
+      "lemon juice",
+      "green mango",
+      "oil",
+      "garlic paste",
+      "salt",
+      "carrots"
+    ]
+  },
+
+
+   {
+    "id": 13,
+    "recipe":"fried prawns",
+    "cuisine": "indian",
+    "ingredients": [
+      "chili powder",
+      "coriander",
+      "garam masala",
+      "salt",
+      "tumeric",
+      "vegetable oil",
+      "cumin",
+      "prawns",
+      "sauce"
+    ]
+  },
+
+   {
+    "id": 14,
+    "recipe":"rabdi",
+    "cuisine": "indian",
+    "ingredients": [
+      "rose petals",
+      "almonds",
+      "rice",
+      "sugar",
+      "whole milk",
+      "pistachios",
+      "saffron"
+    ]
+  },
+
+   {
+    "id": 15,
+    "recipe":"garlic indian bread",
+    "cuisine": "indian",
+    "ingredients": [
+      "strong white bread flour",
+      "salted butter",
+      "sunflower oil",
+      "warm water",
+      "yoghurt",
+      "kalonji",
+      "sugar",
+      "instant yeast",
+      "garlic",
+      "fresh coriander",
+      "sea salt"
+    ]
+  },
+
+  {
+    "id": 16,
+    "recipe":"green salad",
+    "cuisine": "indian",
+    "ingredients": [
+      "garbanzo beans",
+      "sea salt",
+      "medjool date",
+      "cumin",
+      "tumeric",
+      "shallots",
+      "cayenne pepper",
+      "coriander",
+      "diced bell pepper",
+      "potatoes",
+      "garlic",
+      "chopped cilantro",
+      "cream",
+      "lemon",
+      "smoked paprika",
+      "frozen peas"
+    ]
+  },
+
+  {
+    "id": 17,
+     "recipe":"chicken curry",
+    "cuisine": "indian",
+    "ingredients": [
+      "tumeric",
+      "fresh coriander",
+      "paprika",
+      "garlic puree",
+      "ghee",
+      "green cardamom pods",
+      "white onion",
+      "chicken breasts",
+      "salt",
+      "cinnamon sticks",
+      "sugar",
+      "fenugreek",
+      "ginger",
+      "garlic cloves",
+      "ground cumin",
+      "tomato purée",
+      "pepper",
+      "lemon",
+      "green chilies",
+      "coconut milk"
+    ]
+  },
+  
+   {
+    "id": 18,
+     "recipe":"chicken kabab",
+    "cuisine": "indian",
+    "ingredients": [
+      "tomatoes",
+      "red chile powder",
+      "boneless chicken breast",
+      "butter",
+      "green chilies",
+      "cashew nuts",
+      "garlic paste",
+      "mace",
+      "yoghurt",
+      "salt",
+      "lemon juice",
+      "ground cumin",
+      "black peppercorns",
+      "honey",
+      "kashmiri chile",
+      "kasuri methi",
+      "mustard oil",
+      "ginger paste",
+      "clove",
+      "cream",
+      "garam masala",
+      "cinnamon",
+      "tomato ketchup",
+      "coriander"
+    ]
+  },
+  {
+    "id": 19,
+     "recipe":"jeera rice",
+    "cuisine": "indian",
+    "ingredients": [
+      "clove",
+      "cilantro leaves",
+      "ghee",
+      "cinnamon",
+      "jeera",
+      "water",
+      "cardamom",
+      "basmati rice",
+      "salt",
+      "bay leaf"
+    ]
+  },
+    {
+    "id": 20,
+     "recipe":"aloo gobi",
+    "cuisine": "indian",
+    "ingredients": [
+      "red chili peppers",
+      "vegetable oil",
+      "cumin seed",
+      "ground pepper",
+      "fenugreek seeds",
+      "ground turmeric",
+      "cauliflower flowerets",
+      "salt",
+      "boiling potatoes",
+      "fennel seeds",
+      "garam masala",
+      "ground coriander"
+    ]
+  },
+   {
+    "id": 21,
+     "recipe":"Chicken tikka",
+    "cuisine": "indian",
+    "ingredients": [
+      "chicken ",
+      "vegetable oil",
+      "yoghurt",
+      "spices"
+    ]
+  },
+
+{
+    "id": 22,
+     "recipe":"quinoa pulav",
+    "cuisine": "indian",
+    "ingredients": [
+      "tumeric",
+      "vegan margarine",
+      "cardamom pods",
+      "onions",
+      "coriander seeds",
+      "raisins",
+      "carrots",
+      "cashew nuts",
+      "fresh cilantro",
+      "chili powder",
+      "garlic cloves",
+      "frozen peas",
+      "clove",
+      "quinoa",
+      "vegetable broth",
+      "cinnamon sticks",
+      "ground cumin"
+    ]
+  },
+
+   {
+    "id": 23,
+     "recipe":"chicken biriyani",
+    "cuisine": "indian",
+    "ingredients": [
+      "chicken stock",
+      "cilantro leaves",
+      "onions",
+      "quinoa",
+      "roasted salted cashews",
+      "chopped tomatoes",
+      "skinless chicken breasts",
+      "sunflower oil",
+      "curry paste"
+    ]
+  },
+  {
+    "id": 24,
+     "recipe":"palak paneer",
+    "cuisine": "indian",
+    "ingredients": [
+      "cream",
+      "baby spinach",
+      "ghee",
+      "tumeric",
+      "fresh lemon",
+      "fine sea salt",
+      "toasted sesame seeds",
+      "fresh ginger",
+      "buttermilk",
+      "onions",
+      "plain yogurt",
+      "spices",
+      "garlic cloves",
+      "paneer cheese"
+    ]
+  },
+
+   {
+    "id": 25,
+     "recipe":"rajma masala",
+    "cuisine": "indian",
+    "ingredients": [
+      "red kidney beans",
+      "bay leaves",
+      "salt",
+      "ground cumin",
+      "garam masala",
+      "ginger",
+      "onions",
+      "coriander powder",
+      "garlic",
+      "ground turmeric",
+      "tomatoes",
+      "chili powder",
+      "oil"
+    ]
+  },
+
+   {
+    "id": 26,
+     "recipe":"veg kadhai",
+    "cuisine": "indian",
+    "ingredients": [
+      "cauliflower",
+      "pepper",
+      "lemon",
+      "green chilies",
+      "ground cumin",
+      "garlic paste",
+      "chili powder",
+      "salt",
+      "carrots",
+      "tomatoes",
+      "capsicum",
+      "kasuri methi",
+      "cumin seed",
+      "beans",
+      "butter",
+      "cilantro leaves",
+      "onions"
+    ]
+  },
+
+ {
+    "id": 27,
+     "recipe":"modak",
+    "cuisine": "indian",
+    "ingredients": [
+      "salt",
+      "jaggery",
+      "water",
+      "ground cardamom",
+      "oil",
+      "coconut",
+      "rice flour"
+    ]
+  },
+
+
+{
+    "id": 28,
+     "recipe":"salad",
+    "cuisine": "indian",
+    "ingredients": [
+      "chili",
+      "mayonaise",
+      "chopped onion",
+      "cider vinegar",
+      "fresh mint",
+      "cilantro leaves"
+    ]
+  },
+
+ {
+    "id": 29,
+     "recipe":"gobi manchurian",
+    "cuisine": "indian",
+    "ingredients": [
+      "sugar",
+      "water",
+      "cauliflower florets",
+      "chili sauce",
+      "sweet chili sauce",
+      "maida flour",
+      "salt",
+      "oil",
+      "soy sauce",
+      "spring onions",
+      "garlic",
+      "green chilies",
+      "white vinegar",
+      "black pepper",
+      "ginger",
+      "tomato ketchup",
+      "corn starch"
+    ]
+  },
+
+  {
+    "id": 30,
+     "recipe":"spinach curry",
+    "cuisine": "indian",
+    "ingredients": [
+      "garlic cloves",
+      "diced tomatoes",
+      "ground cumin",
+      "spinach",
+      "greens",
+      "extra-virgin olive oil"
+    ]
+  },
+
+{
+    "id": 31,
+     "recipe":"veg puff",
+    "cuisine": "indian",
+    "ingredients": [
+      "ground cinnamon",
+      "active dry yeast",
+      "vegetable oil",
+      "ground allspice",
+      "warm water",
+      "ground nutmeg",
+      "salt",
+      "onions",
+      "eggs",
+      "olive oil",
+      "garlic",
+      "fresh parsley",
+      "cauliflower",
+      "ground cloves",
+      "ground black pepper",
+      "all-purpose flour",
+      "ground cumin"
+    ]
+  },
+
+   {
+    "id": 32,
+     "recipe":"sambhar",
+    "cuisine": "indian",
+    "ingredients": [
+      "olive oil",
+      "garlic cloves",
+      "ground cinnamon",
+      "yellow onion",
+      "ground cumin",
+      "red potato",
+      "ground coriander",
+      "red lentils",
+      "vegetable stock",
+      "carrots"
+    ]
+  },
+
+  {
+    "id": 33,
+     "recipe":"Kadi",
+    "cuisine": "indian",
+    "ingredients": [
+      "coriander seeds",
+      "salt",
+      "milk",
+      "vegetable oil",
+      "boiling water",
+      "cauliflower",
+      "tamarind pulp",
+      "coconut cream",
+      "chickpea flour",
+      "chili powder",
+      "mustard seeds"
+    ]
+  },
+
+{
+    "id": 34,
+     "recipe":"catfish curry",
+    "cuisine": "indian",
+    "ingredients": [
+      "fresh ginger",
+      "paprika",
+      "garlic cloves",
+      "fresh lemon",
+      "ground coriander",
+      "ground turmeric",
+      "jalapeno chilies",
+      "salt",
+      "chopped cilantro fresh",
+      "vegetable oil",
+      "catfish"
+    ]
+  },
+
+
+   {
+    "id": 35,
+     "recipe":"Baked chicken strips",
+    "cuisine": "indian",
+    "ingredients": [
+      "white vinegar",
+      "olive oil",
+      "butter",
+      "chicken fingers",
+      "chicken stock",
+      "garam masala",
+      "yellow onion",
+      "black pepper",
+      "hot pepper sauce",
+      "apricot preserves",
+      "lime zest",
+      "garlic powder",
+      "salt"
+    ]
+  },
+
+   {
+    "id": 36,
+     "recipe":"pudina chutney",
+    "cuisine": "indian",
+    "ingredients": [
+      "amchur",
+      "chillies",
+      "water",
+      "salt",
+      "cumin",
+      "mint leaves",
+      "coriander",
+      "tamarind",
+      "black salt"
+    ]
+  },
+
+   {
+    "id": 37,
+     "recipe":"uttapam",
+    "cuisine": "indian",
+    "ingredients": [
+      "urad dal",
+      "jalapeno chilies",
+      "cumin seed",
+      "curry leaves",
+      "salt",
+      "ginger",
+      "canola oil"
+    ]
+  },
+
+
+   
+
+   {
+    "id": 38,
+     "recipe":"butter chicken",
+    "cuisine": "indian",
+    "ingredients": [
+      "tandoori spices",
+      "ginger",
+      "methi",
+      "nutmeg",
+      "crushed garlic",
+      "curds",
+      "garam masala",
+      "salt",
+      "chicken legs",
+      "butter",
+      "lemon juice"
+    ]
+  },
+
+  {
+    "id": 39,
+    "recipe":"brown lentil curry",
+    "cuisine": "indian",
+    "ingredients": [
+      "water",
+      "olive oil",
+      "cilantro leaves",
+      "cumin",
+      "celery ribs",
+      "crushed tomatoes",
+      "sea salt",
+      "brown lentils",
+      "curry powder",
+      "fresh ginger",
+      "yellow onion",
+      "plain yogurt",
+      "lime",
+      "garlic",
+      "coconut milk"
+    ]
+  },
+
+  {
+    "id": 40,
+    "recipe":"red lentil curry",
+    "cuisine": "indian",
+    "ingredients": [
+      "ginger",
+      "dried minced onion",
+      "red lentils",
+      "cayenne pepper",
+      "salt",
+      "ground turmeric",
+      "vegetable oil",
+      "cumin seed"
+    ]
+  },
+
+
+    {
+    "id": 41,
+    "recipe":"rava idli",
+    "cuisine": "indian",
+    "ingredients": [
+      "urad dal",
+      "rice flour",
+      "black peppercorns",
+      "cumin seed",
+      "ghee",
+      "curry leaves",
+      "salt",
+      "asafoetida powder",
+      "ravva",
+      "oil"
+    ]
+  },
+
+  {
+    "id": 42,
+    "recipe":"meen curry",
+    "cuisine": "indian",
+    "ingredients": [
+      "red chili peppers",
+      "coriander seeds",
+      "lemon",
+      "oil",
+      "ground turmeric",
+      "curry leaves",
+      "coconut",
+      "fenugreek",
+      "garlic",
+      "mustard seeds",
+      "fish",
+      "fennel seeds",
+      "water",
+      "coriander powder",
+      "ginger",
+      "lemon juice",
+      "asafetida",
+      "tomatoes",
+      "tamarind",
+      "chili powder",
+      "salt",
+      "onions"
+    ]
+  },
+
+  {
+    "id": 43,
+    "recipe":"beef stew recipe",
+    "cuisine": "indian",
+    "ingredients": [
+      "ground cinnamon",
+      "parsley",
+      "salt",
+      "onions",
+      "warm water",
+      "diced tomatoes",
+      "garlic cloves",
+      "mild curry powder",
+      "butter",
+      "peanut oil",
+      "beef stew",
+      "paprika",
+      "coconut milk"
+    ]
+  },
+  {
+    "id": 44,
+    "recipe":"pickle",
+    "cuisine": "indian",
+    "ingredients": [
+      "brown sugar",
+      "chili powder",
+      "garlic",
+      "curry powder",
+      "raisins",
+      "mustard seeds",
+      "peaches",
+      "ginger",
+      "pickling spices",
+      "apple cider vinegar",
+      "chopped onion"
+    ]
+  },
+
+   {
+    "id": 45,
+    "recipe":"beef curry",
+    "cuisine": "indian",
+    "ingredients": [
+      "tumeric",
+      "cooking oil",
+      "salt",
+      "ground beef",
+      "ground cumin",
+      "fresh ginger",
+      "cinnamon",
+      "lemon juice",
+      "petite peas",
+      "ground black pepper",
+      "garlic",
+      "chopped cilantro",
+      "boiling potatoes",
+      "plain yogurt",
+      "whole milk",
+      "ground coriander",
+      "onions"
+    ]
+  },
+
+    {
+    "id": 46,
+    "recipe":"shrimp curry",
+    "cuisine": "indian",
+    "ingredients": [
+      "curry powder",
+      "cooked shrimp",
+      "flaked coconut",
+      "green onions",
+      "cream cheese, soften"
+    ]
+  },
+  
+
+    {
+    "id": 47,
+    "recipe":"kidney beans curry",
+    "cuisine": "indian",
+    "ingredients": [
+      "water",
+      "cilantro",
+      "cinnamon sticks",
+      "canola oil",
+      "clove",
+      "fresh ginger root",
+      "salt",
+      "onions",
+      "kidney beans",
+      "garlic",
+      "bay leaf",
+      "black peppercorns",
+      "red pepper",
+      "cardamom pods",
+      "plum tomatoes"
+    ]
+  },
+ 
+ {
+    "id": 48,
+    "recipe":"kashmiri pulav",
+    "cuisine": "indian",
+    "ingredients": [
+      "water",
+      "raisins",
+      "cumin seed",
+      "cashew nuts",
+      "clove",
+      "bay leaves",
+      "salt",
+      "onions",
+      "saffron threads",
+      "chopped almonds",
+      "whipping cream",
+      "cinnamon sticks",
+      "basmati rice",
+      "black peppercorns",
+      "vegetable oil",
+      "cardamom pods",
+      "frozen peas"
+    ]
+  },
+
+   {
+    "id": 49,
+    "recipe":"chickpeas with spinach",
+    "cuisine": "indian",
+    "ingredients": [
+      "coconut oil",
+      "garam masala",
+      "chickpeas",
+      "ground ginger",
+      "fresh leav spinach",
+      "garlic",
+      "fresh lemon juice",
+      "red chili peppers",
+      "sea salt",
+      "cumin seed",
+      "tomatoes",
+      "coriander seeds",
+      "yellow onion",
+      "ground turmeric"
+    ]
+  },
+
+ {
+    "id": 50,
+    "recipe":"cabbage dry",
+    "cuisine": "indian",
+    "ingredients": [
+      "vegetable oil",
+      "garlic cloves",
+      "tumeric",
+      "purple onion",
+      "green cabbage",
+      "ginger",
+      "mustard seeds",
+      "dry coconut",
+      "cumin seed"
+    ]
+  }
+]
